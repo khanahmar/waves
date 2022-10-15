@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box-shadow {
+  box-shadow: 4.5px 4.5px 3.6px rgba(0, 0, 0, 0.07),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.082),
+    30.1px 30.1px 24.1px rgba(0, 0, 0, 0.079),
+    100px 100px 80px rgba(0, 0, 0, 0.09);
+  border: none;
+  border-radius: 32% 35% 24% 30% / 37% 28% 33% 35% ;
+  width: 200px;
+  height: 100px;
+  background-color: gray;
+}
